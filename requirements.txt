@@ -1,5 +1,2 @@
-os
 Flask
 flask
-flask_cors
-requests
